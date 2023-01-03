@@ -38,5 +38,5 @@ Feel free to do whatever you want with that code. Although I don't suppose anyon
 [explosion sound](http://creativecommons.org/licenses/by-sa/3.0/)\
 [birds sound](https://mixkit.co/free-sound-effects/bird/)
 
-
+Thank you for reading
 
