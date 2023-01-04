@@ -2,7 +2,7 @@
 
 ![](Gameplay_gif.gif)
 
-Project was created to compare the exact same games written in [Python](https://github.com/MariuszDot/Game_OOP) and in C/C++. Made entirely from scratch using SDL2 libraries.
+Project was created to compare the exact same games written in Python (which you can see [here](https://github.com/MariuszDot/Game_OOP)) and in C/C++. Made entirely from scratch using SDL2 libraries.
 Uses C++17.
 
 ## You want to compile it?
@@ -38,5 +38,7 @@ Feel free to do whatever you want with that code. Although I don't suppose anyon
 [explosion sound](http://creativecommons.org/licenses/by-sa/3.0/)\
 [birds sound](https://mixkit.co/free-sound-effects/bird/)
 
-Thank you for reading
+Thank you for reading!
+Have a good day,
+Mariusz
 
